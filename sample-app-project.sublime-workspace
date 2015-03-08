@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DI",
+				"div	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"ba",
+				"base_title"
+			],
+			[
+				"ass",
+				"assert_select"
+			],
+			[
+				"assert",
+				"assert_response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/controllers/static_pages_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "sample-app-project.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/sample_app/sample-app-project.sublime-workspace",
+		"/C/Sites/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/C/Sites/sample_app/app/views/static_pages/home.html.erb",
+		"/C/Sites/sample_app/config/routes.rb",
+		"/C/Sites/sample_app/Gemfile",
+		"/C/Users/Felipe/Documents/Setups/AGE OF EMPIRES III + SERIAL/Serials.txt",
+		"/C/Sites/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/C/Users/Felipe/Downloads/Call Of Duty Modern Warfare 2 [English][PC][2DVDs][WwW.GamesTorrents.CoM]/Leeme.txt",
+		"/C/Sites/sample_app/app/views/layouts/application.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/_footer.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/_shim.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/_header.html.erb",
+		"/C/Sites/sample_app/example_user.rb",
+		"/C/Sites/sample_app/app/helpers/application_helper.rb",
+		"/C/Sites/LarFind/Gemfile",
+		"/C/Sites/sample_app/Gemfile - Copy",
+		"/C/Sites/sample_app/Gemfile.lock",
+		"/C/RailsInstaller/Ruby1.9.3/lib/ruby/site_ruby/1.9.1/rubygems/ssl_certs/AddTrustExternalCARoot-2048.pem.txt",
+		"/C/Sites/sample_app/test/helpers/static_pages_helper_test.rb",
+		"/C/Sites/sample_app/test/test_helper.rb",
+		"/C/Sites/sample_app/.gitignore",
+		"/C/Sites/sample_app/app/views/static_pages/help.html.erb",
+		"/C/Sites/sample_app/app/controllers/application_controller.rb",
+		"/C/Sites/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/Sites/sample_app/app/views/static_pages/about.html.erb",
+		"/C/Sites/sample_app/app/views/static_pages/contact.html.erb",
+		"/C/Sites/LarFind/config/routes.rb",
+		"/C/Sites/sample_app/app/assets/stylesheets/static_pages.css.scss",
+		"/C/Sites/LarFind/app/controllers/residencia_controller.rb",
+		"/C/Sites/LarFind/app/controllers/site_controller.rb",
+		"/C/Sites/rails_projects/first_app/config/initializers/secret_token.rb",
+		"/C/Sites/rails_projects/first_app/config/secrets.yml",
+		"/C/Users/Felipe/Documents/into the wild",
+		"/C/Users/Felipe/Desktop/nz-wellington-tekapo.txt",
+		"/C/Sites/rails_projects/first_app/config/environments/development.rb",
+		"/C/Users/Felipe/Desktop/breaking-bad.txt",
+		"/C/Users/Felipe/Documents/uni sydney/acesso-uni-sydney.txt",
+		"/C/Users/Felipe/Documents/senha-yha.txt",
+		"/C/Users/Felipe/Desktop/acesso-uni-sydney.txt",
+		"/C/Users/Felipe/Documents/uni sydney/acesso-portal-acomodacao",
+		"/C/Sites/rails_projects/first_app/Gemfile",
+		"/C/Users/Felipe/Desktop/into-the-wild.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/controllers/static_pages_controller_test.rb",
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample-app-project.sublime-project",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sites/sample_app/sample-app-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
