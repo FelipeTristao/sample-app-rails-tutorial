@@ -19,4 +19,8 @@ Rails.application.routes.draw do
   # GET	    /users/1/edit	edit	   edit_user_path(user)	 page to edit user with id 1
   # PATCH	  /users/1	    update	 user_path(user)	     update user
   # DELETE	/users/1	    destroy	 user_path(user)	     delete user
+
+  get   'login'   => 'sessions#new'
+  post  'login'   => 'sessions#create'
+  delete   'logout'  => 'sessions#destroy'
 end
